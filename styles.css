@@ -1,6 +1,11 @@
 /*  your css code here. If applicable */
+.middle{
+	width: 100%; 
+	
+}
  table {
-            width: 100%;       
+      width: 100%;    
+	 border: 1px solid black;
  }
 th, td {
     border: 1px solid black;
